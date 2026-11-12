@@ -43,7 +43,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** water-soluble ingredients
 - **pH:** 3.5 to 7
 - **Best for:** Oily, Combination, Balanced
-- **Size / placeholder price:** 30 ml / $28
+- **Size / placeholder price:** 30 ml / $84
 
 #### Jojoba Milk Serum
 
@@ -54,7 +54,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** water-soluble and oil-soluble ingredients
 - **pH:** 3.5 to 7
 - **Best for:** Balanced, Combination, Dry
-- **Size / placeholder price:** 30 ml / $30
+- **Size / placeholder price:** 30 ml / $90
 
 #### Squalane Oil Serum
 
@@ -65,7 +65,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** oil-soluble ingredients
 - **pH:** none (contains no water)
 - **Best for:** Dry, Balanced
-- **Size / placeholder price:** 30 ml / $32
+- **Size / placeholder price:** 30 ml / $96
 
 #### Oat Calming Essence
 
@@ -76,7 +76,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** water-soluble ingredients
 - **pH:** 5 to 7
 - **Best for:** Sensitive, Dry
-- **Size / placeholder price:** 30 ml / $29
+- **Size / placeholder price:** 30 ml / $87
 
 ### Moisturizer bases (50 ml)
 
@@ -89,7 +89,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** water-soluble ingredients
 - **pH:** 3.5 to 7
 - **Best for:** Oily, Combination
-- **Size / placeholder price:** 50 ml / $30
+- **Size / placeholder price:** 50 ml / $90
 
 #### Daily Jojoba Lotion
 
@@ -100,7 +100,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** water-soluble and oil-soluble ingredients
 - **pH:** 3.5 to 7
 - **Best for:** Balanced, Combination
-- **Size / placeholder price:** 50 ml / $32
+- **Size / placeholder price:** 50 ml / $99
 
 #### Mango Butter Cream
 
@@ -111,7 +111,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** water-soluble and oil-soluble ingredients
 - **pH:** 4.5 to 7
 - **Best for:** Dry
-- **Size / placeholder price:** 50 ml / $36
+- **Size / placeholder price:** 50 ml / $108
 - **Rule tags:** rich
 
 #### Oat Barrier Cream
@@ -123,7 +123,7 @@ The customer always sees the specific reason next to a greyed-out option. If an 
 - **Carries:** water-soluble and oil-soluble ingredients
 - **pH:** 5 to 6.5
 - **Best for:** Sensitive, Dry
-- **Size / placeholder price:** 50 ml / $34
+- **Size / placeholder price:** 50 ml / $102
 
 ## Actives
 
@@ -143,7 +143,7 @@ Hold water in and rebuild the barrier.
 - **Best for:** All skin types
 - **Use:** morning and night
 - **Lab notes (not shown to customers):** Breaks down slowly below pH 4. Acceptable in an acid formula with a one-month use period; confirm with stability testing.
-- **Placeholder price:** $6
+- **Placeholder price:** $18
 
 #### Ceramide Complex (2%)
 
@@ -157,7 +157,7 @@ Hold water in and rebuild the barrier.
 - **Best for:** Dry, Sensitive, Balanced, Combination
 - **Use:** morning and night
 - **Lab notes (not shown to customers):** 2% refers to the lipid blend, not pure ceramide.
-- **Placeholder price:** $7
+- **Placeholder price:** $21
 
 #### Shea Lipid Boost (4%)
 
@@ -171,7 +171,7 @@ Hold water in and rebuild the barrier.
 - **Best for:** Dry
 - **Use:** morning and night
 - **Rule tags:** rich
-- **Placeholder price:** $5
+- **Placeholder price:** $15
 
 ### Brighten and protect
 
@@ -188,7 +188,7 @@ Even out tone and defend against daily stress.
 - **Works at pH:** 5 to 7
 - **Best for:** Oily, Combination, Balanced
 - **Use:** morning and night
-- **Placeholder price:** $5
+- **Placeholder price:** $15
 
 #### Vitamin C (3%)
 
@@ -202,7 +202,7 @@ Even out tone and defend against daily stress.
 - **Best for:** Balanced, Combination, Oily, Dry
 - **Use:** morning and night
 - **Lab notes (not shown to customers):** Protect from light and air. Airless, opaque packaging recommended.
-- **Placeholder price:** $8
+- **Placeholder price:** $24
 
 #### Green Tea Extract (2%)
 
@@ -215,7 +215,7 @@ Even out tone and defend against daily stress.
 - **Works at pH:** 3.5 to 5.8
 - **Best for:** Oily, Combination, Sensitive, Balanced
 - **Use:** morning and night
-- **Placeholder price:** $4
+- **Placeholder price:** $12
 
 #### Vitamin E (1%)
 
@@ -228,7 +228,7 @@ Even out tone and defend against daily stress.
 - **Works at pH:** 3.5 to 8
 - **Best for:** Dry, Balanced
 - **Use:** morning and night
-- **Placeholder price:** $4
+- **Placeholder price:** $12
 
 ### Resurface
 
@@ -248,7 +248,7 @@ Exfoliating acids. One per formula.
 - **Customer cautions:** Use at night and wear SPF 30 or higher every day. Exfoliating acids make skin more sensitive to the sun. A brief tingle on application is normal. Stop if skin burns or stays red.
 - **Lab notes (not shown to customers):** Keep at 10% or below and pH 3.5 or above for consumer leave-on use. US labelling should carry the FDA-recommended sunburn alert for AHA products.
 - **Rule tags:** exfoliant, strong-exfoliant
-- **Placeholder price:** $6
+- **Placeholder price:** $18
 
 #### Lactic Acid (5%)
 
@@ -264,7 +264,7 @@ Exfoliating acids. One per formula.
 - **Customer cautions:** Use at night and wear SPF 30 or higher every day. Exfoliating acids make skin more sensitive to the sun.
 - **Lab notes (not shown to customers):** Same pH and sunburn-alert considerations as glycolic acid.
 - **Rule tags:** exfoliant
-- **Placeholder price:** $6
+- **Placeholder price:** $18
 
 #### Salicylic Acid (2%)
 
@@ -280,7 +280,7 @@ Exfoliating acids. One per formula.
 - **Customer cautions:** Use at night and wear SPF 30 or higher every day. Exfoliating acids make skin more sensitive to the sun. Do not use if you are allergic to aspirin or other salicylates.
 - **Lab notes (not shown to customers):** Needs a glycol or similar solubiliser in the water phase. In the US, 0.5 to 2% salicylic acid sold with acne claims is an over-the-counter drug; keep claims cosmetic (pores, texture, oil) unless you register it as one.
 - **Rule tags:** exfoliant, strong-exfoliant, oil-clearing
-- **Placeholder price:** $6
+- **Placeholder price:** $18
 
 ### Renew
 
@@ -300,7 +300,7 @@ Smooth lines and texture over time.
 - **Customer cautions:** Night use only. Wear SPF 30 or higher every day. Do not use while pregnant, trying to conceive or breastfeeding. Start with two or three nights a week and build up.
 - **Lab notes (not shown to customers):** 0.3% is the EU maximum for leave-on face products. Needs airless, opaque packaging and an antioxidant in the oil phase.
 - **Rule tags:** retinoid
-- **Placeholder price:** $9
+- **Placeholder price:** $27
 
 #### Bakuchiol (1%)
 
@@ -313,7 +313,7 @@ Smooth lines and texture over time.
 - **Works at pH:** 3.5 to 7.5
 - **Best for:** Sensitive, Dry, Balanced, Combination
 - **Use:** morning and night
-- **Placeholder price:** $8
+- **Placeholder price:** $24
 
 ### Soothe
 
@@ -330,7 +330,7 @@ Calm redness and reactivity.
 - **Works at pH:** 4 to 7
 - **Best for:** Sensitive, Dry, Combination
 - **Use:** morning and night
-- **Placeholder price:** $5
+- **Placeholder price:** $15
 
 ## Boosters
 
@@ -346,7 +346,7 @@ Calm redness and reactivity.
 - **Best for:** Dry, Balanced, Combination
 - **Use:** morning and night
 - **Lab notes (not shown to customers):** Confirm and declare the source (marine, bovine or fermentation-derived): it decides allergen and vegan labelling. Avoid firming or wrinkle claims based on this ingredient.
-- **Placeholder price:** $9
+- **Placeholder price:** $27
 
 #### Plant Stem Cells (2%)
 
@@ -360,7 +360,7 @@ Calm redness and reactivity.
 - **Best for:** All skin types
 - **Use:** morning and night
 - **Lab notes (not shown to customers):** Replace the INCI with your actual material (for example Malus domestica fruit cell culture extract) and confirm its supplier pH range.
-- **Placeholder price:** $12
+- **Placeholder price:** $36
 
 ## Where each ingredient can be added
 

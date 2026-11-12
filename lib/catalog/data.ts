@@ -71,7 +71,7 @@ export const BASES: Base[] = [
     ph: { min: 3.5, max: 7.0 },
     tags: [],
     bestFor: ["oily", "combination", "normal"],
-    price: 28,
+    price: 84,
     sizeMl: 30,
     color: "#CFE6D6",
     science:
@@ -90,7 +90,7 @@ export const BASES: Base[] = [
     ph: { min: 3.5, max: 7.0 },
     tags: [],
     bestFor: ["normal", "combination", "dry"],
-    price: 30,
+    price: 90,
     sizeMl: 30,
     color: "#EDE9D2",
     science:
@@ -109,7 +109,7 @@ export const BASES: Base[] = [
     ph: null,
     tags: [],
     bestFor: ["dry", "normal"],
-    price: 32,
+    price: 96,
     sizeMl: 30,
     color: "#E9D9A0",
     science:
@@ -128,7 +128,7 @@ export const BASES: Base[] = [
     ph: { min: 5.0, max: 7.0 },
     tags: [],
     bestFor: ["sensitive", "dry"],
-    price: 29,
+    price: 87,
     sizeMl: 30,
     color: "#E7E2D3",
     science:
@@ -149,7 +149,7 @@ export const BASES: Base[] = [
     ph: { min: 3.5, max: 7.0 },
     tags: [],
     bestFor: ["oily", "combination"],
-    price: 30,
+    price: 90,
     sizeMl: 50,
     color: "#CFE6D6",
     science:
@@ -168,7 +168,7 @@ export const BASES: Base[] = [
     ph: { min: 3.5, max: 7.0 },
     tags: [],
     bestFor: ["normal", "combination"],
-    price: 32,
+    price: 99,
     sizeMl: 50,
     color: "#EDE9D2",
     science:
@@ -188,7 +188,7 @@ export const BASES: Base[] = [
     ph: { min: 4.5, max: 7.0 },
     tags: ["rich"],
     bestFor: ["dry"],
-    price: 36,
+    price: 108,
     sizeMl: 50,
     color: "#F0DFB4",
     science:
@@ -207,7 +207,7 @@ export const BASES: Base[] = [
     ph: { min: 5.0, max: 6.5 },
     tags: [],
     bestFor: ["sensitive", "dry"],
-    price: 34,
+    price: 102,
     sizeMl: 50,
     color: "#E7E2D3",
     science:
@@ -254,7 +254,7 @@ export const ACTIVES: Addition[] = [
     cautions: [],
     labNotes:
       "Breaks down slowly below pH 4. Acceptable in an acid formula with a one-month use period; confirm with stability testing.",
-    price: 6,
+    price: 18,
     color: "#A9D3E8",
   },
   {
@@ -279,7 +279,7 @@ export const ACTIVES: Addition[] = [
       "Ceramide-containing moisturizers improve barrier function and dryness in clinical studies; results depend on the full formula.",
     cautions: [],
     labNotes: "2% refers to the lipid blend, not pure ceramide.",
-    price: 7,
+    price: 21,
     color: "#F2E6C4",
   },
   {
@@ -301,7 +301,7 @@ export const ACTIVES: Addition[] = [
     evidence: "moderate",
     evidenceNote: "Emollients and occlusives are a well-established way to reduce water loss.",
     cautions: [],
-    price: 5,
+    price: 15,
     color: "#F3DFA6",
   },
 
@@ -326,7 +326,7 @@ export const ACTIVES: Addition[] = [
     evidence: "strong",
     evidenceNote: "Multiple controlled trials at 2 to 5% for tone, barrier function and sebum.",
     cautions: [],
-    price: 5,
+    price: 15,
     color: "#D9D4F0",
   },
   {
@@ -350,7 +350,7 @@ export const ACTIVES: Addition[] = [
       "Good antioxidant data and some clinical evidence; less studied than pure L-ascorbic acid.",
     cautions: [],
     labNotes: "Protect from light and air. Airless, opaque packaging recommended.",
-    price: 8,
+    price: 24,
     color: "#F6C97A",
   },
   {
@@ -372,7 +372,7 @@ export const ACTIVES: Addition[] = [
     evidence: "moderate",
     evidenceNote: "Solid laboratory data and several small human studies.",
     cautions: [],
-    price: 4,
+    price: 12,
     color: "#B9D69A",
   },
   {
@@ -394,7 +394,7 @@ export const ACTIVES: Addition[] = [
     evidence: "moderate",
     evidenceNote: "Long-established antioxidant; strongest data is in combination with vitamin C.",
     cautions: [],
-    price: 4,
+    price: 12,
     color: "#F0D48A",
   },
 
@@ -420,7 +420,7 @@ export const ACTIVES: Addition[] = [
     cautions: [SUN_CAUTION, "A brief tingle on application is normal. Stop if skin burns or stays red."],
     labNotes:
       "Keep at 10% or below and pH 3.5 or above for consumer leave-on use. US labelling should carry the FDA-recommended sunburn alert for AHA products.",
-    price: 6,
+    price: 18,
     color: "#F4B8B0",
   },
   {
@@ -443,7 +443,7 @@ export const ACTIVES: Addition[] = [
     evidenceNote: "Well studied for exfoliation and for improving dry, rough skin.",
     cautions: [SUN_CAUTION],
     labNotes: "Same pH and sunburn-alert considerations as glycolic acid.",
-    price: 6,
+    price: 18,
     color: "#F6CFC0",
   },
   {
@@ -470,7 +470,7 @@ export const ACTIVES: Addition[] = [
     ],
     labNotes:
       "Needs a glycol or similar solubiliser in the water phase. In the US, 0.5 to 2% salicylic acid sold with acne claims is an over-the-counter drug; keep claims cosmetic (pores, texture, oil) unless you register it as one.",
-    price: 6,
+    price: 18,
     color: "#F2C6D6",
   },
 
@@ -500,7 +500,7 @@ export const ACTIVES: Addition[] = [
     ],
     labNotes:
       "0.3% is the EU maximum for leave-on face products. Needs airless, opaque packaging and an antioxidant in the oil phase.",
-    price: 9,
+    price: 27,
     color: "#F3D36B",
   },
   {
@@ -523,7 +523,7 @@ export const ACTIVES: Addition[] = [
     evidenceNote:
       "A 12-week randomised trial found it improved wrinkles and pigmentation about as well as retinol, with less scaling and stinging. Fewer studies than retinol overall.",
     cautions: [],
-    price: 8,
+    price: 24,
     color: "#D8C3E6",
   },
 
@@ -547,7 +547,7 @@ export const ACTIVES: Addition[] = [
     evidence: "moderate",
     evidenceNote: "Long history in wound care; a growing number of cosmetic studies.",
     cautions: [],
-    price: 5,
+    price: 15,
     color: "#BFDDB8",
   },
 ];
@@ -579,7 +579,7 @@ export const BOOSTERS: Addition[] = [
     cautions: [],
     labNotes:
       "Confirm and declare the source (marine, bovine or fermentation-derived): it decides allergen and vegan labelling. Avoid firming or wrinkle claims based on this ingredient.",
-    price: 9,
+    price: 27,
     color: "#F1D9DC",
   },
   {
@@ -604,7 +604,7 @@ export const BOOSTERS: Addition[] = [
     cautions: [],
     labNotes:
       "Replace the INCI with your actual material (for example Malus domestica fruit cell culture extract) and confirm its supplier pH range.",
-    price: 12,
+    price: 36,
     color: "#C7E3C0",
   },
 ];

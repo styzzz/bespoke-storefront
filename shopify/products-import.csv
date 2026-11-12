@@ -1,24 +1,24 @@
 Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Requires Shipping,Variant Taxable,Status
-bespoke-serum,Bespoke Serum,"<p>A serum made to order from the customer's own formula. 30 ml, a one-month supply.</p>",Made from Earth,Bespoke,bespoke,FALSE,Base,Aloe Water-Gel,BSP-BASE-SER-ALOE,continue,manual,28.00,TRUE,TRUE,active
-bespoke-serum,,,,,,,,Jojoba Milk Serum,BSP-BASE-SER-MILK,continue,manual,30.00,TRUE,TRUE,
-bespoke-serum,,,,,,,,Squalane Oil Serum,BSP-BASE-SER-SQUALANE,continue,manual,32.00,TRUE,TRUE,
-bespoke-serum,,,,,,,,Oat Calming Essence,BSP-BASE-SER-OAT,continue,manual,29.00,TRUE,TRUE,
-bespoke-moisturizer,Bespoke Moisturizer,"<p>A moisturizer made to order from the customer's own formula. 50 ml, a one-month supply.</p>",Made from Earth,Bespoke,bespoke,FALSE,Base,Oil-Free Gel-Cream,BSP-BASE-MST-GEL,continue,manual,30.00,TRUE,TRUE,active
-bespoke-moisturizer,,,,,,,,Daily Jojoba Lotion,BSP-BASE-MST-LOTION,continue,manual,32.00,TRUE,TRUE,
-bespoke-moisturizer,,,,,,,,Mango Butter Cream,BSP-BASE-MST-BUTTER,continue,manual,36.00,TRUE,TRUE,
-bespoke-moisturizer,,,,,,,,Oat Barrier Cream,BSP-BASE-MST-BARRIER,continue,manual,34.00,TRUE,TRUE,
-bespoke-actives,Bespoke Active,<p>An active ingredient added to a bespoke formula. Not sold separately.</p>,Made from Earth,Bespoke,bespoke,FALSE,Active,Hyaluronic Acid 1%,BSP-ACT-HA,continue,manual,6.00,TRUE,TRUE,active
-bespoke-actives,,,,,,,,Ceramide Complex 2%,BSP-ACT-CER,continue,manual,7.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Shea Lipid Boost 4%,BSP-ACT-LIPID,continue,manual,5.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Niacinamide 5%,BSP-ACT-NIA,continue,manual,5.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Vitamin C 3%,BSP-ACT-VITC,continue,manual,8.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Green Tea Extract 2%,BSP-ACT-GT,continue,manual,4.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Vitamin E 1%,BSP-ACT-VITE,continue,manual,4.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Glycolic Acid 5%,BSP-ACT-GLY,continue,manual,6.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Lactic Acid 5%,BSP-ACT-LAC,continue,manual,6.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Salicylic Acid 2%,BSP-ACT-SAL,continue,manual,6.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Retinol 0.3%,BSP-ACT-RET,continue,manual,9.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Bakuchiol 1%,BSP-ACT-BAK,continue,manual,8.00,TRUE,TRUE,
-bespoke-actives,,,,,,,,Centella (Cica) 2%,BSP-ACT-CICA,continue,manual,5.00,TRUE,TRUE,
-bespoke-boosters,Bespoke Booster,<p>A booster added to a bespoke formula. Not sold separately.</p>,Made from Earth,Bespoke,bespoke,FALSE,Booster,Collagen Peptides 2%,BSP-BST-COL,continue,manual,9.00,TRUE,TRUE,active
-bespoke-boosters,,,,,,,,Plant Stem Cells 2%,BSP-BST-PSC,continue,manual,12.00,TRUE,TRUE,
+bespoke-serum,Bespoke Serum,"<p>A serum made to order from the customer's own formula. 30 ml, a one-month supply.</p>",Made from Earth,Bespoke,bespoke,FALSE,Base,Aloe Water-Gel,BSP-BASE-SER-ALOE,continue,manual,84.00,TRUE,TRUE,active
+bespoke-serum,,,,,,,,Jojoba Milk Serum,BSP-BASE-SER-MILK,continue,manual,90.00,TRUE,TRUE,
+bespoke-serum,,,,,,,,Squalane Oil Serum,BSP-BASE-SER-SQUALANE,continue,manual,96.00,TRUE,TRUE,
+bespoke-serum,,,,,,,,Oat Calming Essence,BSP-BASE-SER-OAT,continue,manual,87.00,TRUE,TRUE,
+bespoke-moisturizer,Bespoke Moisturizer,"<p>A moisturizer made to order from the customer's own formula. 50 ml, a one-month supply.</p>",Made from Earth,Bespoke,bespoke,FALSE,Base,Oil-Free Gel-Cream,BSP-BASE-MST-GEL,continue,manual,90.00,TRUE,TRUE,active
+bespoke-moisturizer,,,,,,,,Daily Jojoba Lotion,BSP-BASE-MST-LOTION,continue,manual,99.00,TRUE,TRUE,
+bespoke-moisturizer,,,,,,,,Mango Butter Cream,BSP-BASE-MST-BUTTER,continue,manual,108.00,TRUE,TRUE,
+bespoke-moisturizer,,,,,,,,Oat Barrier Cream,BSP-BASE-MST-BARRIER,continue,manual,102.00,TRUE,TRUE,
+bespoke-actives,Bespoke Active,<p>An active ingredient added to a bespoke formula. Not sold separately.</p>,Made from Earth,Bespoke,bespoke,FALSE,Active,Hyaluronic Acid 1%,BSP-ACT-HA,continue,manual,18.00,TRUE,TRUE,active
+bespoke-actives,,,,,,,,Ceramide Complex 2%,BSP-ACT-CER,continue,manual,21.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Shea Lipid Boost 4%,BSP-ACT-LIPID,continue,manual,15.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Niacinamide 5%,BSP-ACT-NIA,continue,manual,15.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Vitamin C 3%,BSP-ACT-VITC,continue,manual,24.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Green Tea Extract 2%,BSP-ACT-GT,continue,manual,12.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Vitamin E 1%,BSP-ACT-VITE,continue,manual,12.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Glycolic Acid 5%,BSP-ACT-GLY,continue,manual,18.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Lactic Acid 5%,BSP-ACT-LAC,continue,manual,18.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Salicylic Acid 2%,BSP-ACT-SAL,continue,manual,18.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Retinol 0.3%,BSP-ACT-RET,continue,manual,27.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Bakuchiol 1%,BSP-ACT-BAK,continue,manual,24.00,TRUE,TRUE,
+bespoke-actives,,,,,,,,Centella (Cica) 2%,BSP-ACT-CICA,continue,manual,15.00,TRUE,TRUE,
+bespoke-boosters,Bespoke Booster,<p>A booster added to a bespoke formula. Not sold separately.</p>,Made from Earth,Bespoke,bespoke,FALSE,Booster,Collagen Peptides 2%,BSP-BST-COL,continue,manual,27.00,TRUE,TRUE,active
+bespoke-boosters,,,,,,,,Plant Stem Cells 2%,BSP-BST-PSC,continue,manual,36.00,TRUE,TRUE,

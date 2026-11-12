@@ -163,10 +163,10 @@ describe("Shopify integration", () => {
     assert.deepEqual(view.availablePlans, ["once", "quarter", "annual"]);
     assert.deepEqual(view.pricing.planDiscounts, { quarter: 10, annual: 20 });
 
-    // Catalog placeholders: 28 + 6 + 5 + 9 = 48. Shopify adds $1 to each of 4 items.
+    // Catalog placeholders: 84 + 18 + 15 + 27 = 144. Shopify adds $1 to each of 4 items.
     const q = quote(formula, "annual", view.pricing);
-    assert.equal(q.subtotalCents, 5200);
-    assert.equal(q.perDeliveryCents, 4160);
+    assert.equal(q.subtotalCents, 14800);
+    assert.equal(q.perDeliveryCents, 11840);
   });
 
   it("uses the public token header when only a public token is set", async () => {

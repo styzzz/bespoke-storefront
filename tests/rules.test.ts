@@ -328,7 +328,7 @@ describe("pricing and formula text", () => {
 
   it("adds the base and every addition", () => {
     const q = quote(formula, "once");
-    assert.equal(q.subtotalCents, (28 + 6 + 5 + 9 + 12) * 100);
+    assert.equal(q.subtotalCents, (84 + 18 + 15 + 27 + 36) * 100);
     assert.equal(q.perDeliveryCents, q.subtotalCents);
     assert.equal(q.lines.length, 5);
   });
@@ -336,11 +336,11 @@ describe("pricing and formula text", () => {
   it("applies plan discounts per delivery", () => {
     const quarter = quote(formula, "quarter");
     assert.equal(quarter.discountPct, 10);
-    assert.equal(quarter.perDeliveryCents, 5400);
-    assert.equal(quarter.savingsPerDeliveryCents, 600);
+    assert.equal(quarter.perDeliveryCents, 16200);
+    assert.equal(quarter.savingsPerDeliveryCents, 1800);
     assert.equal(quarter.deliveries, 3);
     const annual = quote(formula, "annual");
-    assert.equal(annual.perDeliveryCents, 4800);
+    assert.equal(annual.perDeliveryCents, 14400);
     assert.equal(annual.deliveries, 12);
   });
 
@@ -350,7 +350,7 @@ describe("pricing and formula text", () => {
       prices: { "BSP-BASE-SER-ALOE": 3100, "BSP-ACT-HA": 750 },
       planDiscounts: { quarter: 15 },
     });
-    assert.equal(q.subtotalCents, 3100 + 750 + 500 + 900 + 1200);
+    assert.equal(q.subtotalCents, 3100 + 750 + 1500 + 2700 + 3600);
     assert.equal(q.discountPct, 15);
     assert.equal(q.perDeliveryCents, Math.round((q.subtotalCents * 85) / 100));
   });
