@@ -1,0 +1,24 @@
+Component,Category,Price before (USD),Price now (USD),SKU
+Aloe Water-Gel,Serum base,28,84,BSP-BASE-SER-ALOE
+Jojoba Milk Serum,Serum base,30,90,BSP-BASE-SER-MILK
+Squalane Oil Serum,Serum base,32,96,BSP-BASE-SER-SQUALANE
+Oat Calming Essence,Serum base,29,87,BSP-BASE-SER-OAT
+Oil-Free Gel-Cream,Moisturizer base,30,90,BSP-BASE-MST-GEL
+Daily Jojoba Lotion,Moisturizer base,32,99,BSP-BASE-MST-LOTION
+Mango Butter Cream,Moisturizer base,36,108,BSP-BASE-MST-BUTTER
+Oat Barrier Cream,Moisturizer base,34,102,BSP-BASE-MST-BARRIER
+Hyaluronic Acid,Active,6,18,BSP-ACT-HA
+Ceramide Complex,Active,7,21,BSP-ACT-CER
+Shea Lipid Boost,Active,5,15,BSP-ACT-LIPID
+Niacinamide,Active,5,15,BSP-ACT-NIA
+Vitamin C,Active,8,24,BSP-ACT-VITC
+Green Tea Extract,Active,4,12,BSP-ACT-GT
+Vitamin E,Active,4,12,BSP-ACT-VITE
+Glycolic Acid,Active,6,18,BSP-ACT-GLY
+Lactic Acid,Active,6,18,BSP-ACT-LAC
+Salicylic Acid,Active,6,18,BSP-ACT-SAL
+Retinol,Active,9,27,BSP-ACT-RET
+Bakuchiol,Active,8,24,BSP-ACT-BAK
+Centella (Cica),Active,5,15,BSP-ACT-CICA
+Collagen Peptides,Booster,9,27,BSP-BST-COL
+Plant Stem Cells,Booster,12,36,BSP-BST-PSC
